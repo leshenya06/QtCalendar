@@ -1,0 +1,39 @@
+# Системные файлы
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.pdb
+*.idb
+*.ilk
+*.log
+*.sublime-workspace
+*.sublime-project
+
+# Qt Creator
+*.pro.user
+*.pro
+*.pro.user.*
+*.moc
+*.qrc
+*.ui
+*.autosave
+
+# Директории сборки
+build/
+bin/
+debug/
+release/
+*.pro.user
+*.pro.user.*
+
+# Другие временные файлы
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
